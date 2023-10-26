@@ -1507,4 +1507,16 @@ figure {
     content: "🖥️";
 }
 
+#page .category-lists .category-list li.category-list-item:nth-child(2) {
+    background: -webkit-linear-gradient(left, #6639a6, #3490de);
+    background: -moz-linear-gradient(left, #6639a6, #3490de);
+    background: -o-linear-gradient(left, #6639a6, #3490de);
+    background: -ms-linear-gradient(left, #6639a6, #3490de);
+    background: linear-gradient(to right, #6639a6, #3490de);
+}
+
+#page .category-lists .category-list li.category-list-item:nth-child(2) a.category-list-link::before {
+    content: "💬";
+}
+
 /* end */
