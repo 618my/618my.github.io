@@ -7,5 +7,5 @@ http://example.com/categories/index.html
 http://example.com/archives/index.html
 http://example.com/tags/index.html
 http://example.com/
-http://example.com/categories/%E8%93%9D%E6%A1%A5%E6%9D%AF/
 http://example.com/categories/%E5%91%BD%E4%BB%A4/
+http://example.com/categories/%E8%93%9D%E6%A1%A5%E6%9D%AF/
